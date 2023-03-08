@@ -1,0 +1,182 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    background-color: white;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.anim, .anim svg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.anim path {
+  stroke-width: 0.5;
+}
+
+.my-4 {
+  text-align: center;
+  margin-top: 4.5rem !important;
+  margin-bottom: 4.5rem !important;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card-footer {
+  text-align: center;
+}
+
+.middle-alig {
+  text-align: center;
+  margin-top: 4.5rem;
+  margin-bottom: 4.5rem;
+}
+
+.typing {
+  text-align: center !important;
+  padding-bottom: 4rem !important;
+}
+
+.mid-align {
+  text-align: center;
+}
+
+.center-alig {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.extra-padding {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+}
+
+.extra-top-p {
+  padding-top: 4.5rem;
+}
+
+.extra-bottom-p {
+  padding-bottom: 4.5rem;
+}
+
+.nav-logo {
+  height: 58px;
+  margin-top: -24px;
+  margin-bottom: -15px;
+}
+
+@media (max-width: 992px) {
+  .nav-padding {
+    padding-top: 14px !important;
+  }
+
+  .nav-logo {
+    height: 58px;
+    margin-top: -24px;
+    margin-bottom: -16px;
+  }
+}
+
+.stroke-effect {
+  color: white;
+  text-shadow:
+  0 1px 3px rgba(0,0,0,1)
+}
+
+.footer-icon {
+  padding-right: 20px;
+  height: 40px;
+}
+
+@media (max-width: 992px) {
+  .footer-text {
+    padding-top: 40px;
+  }
+
+  .footer-icon {
+    padding-right: 20px;
+    padding-bottom: 10px;
+    height: 40px;
+  }
+}
+
+.left-card {
+  text-align: left;
+}
+
+.right-card {
+  text-align: right;
+}
+
+.home-icon {
+  padding: 1rem;
+  width: 140px;
+}
+
+.home-icon-container {
+  margin: auto auto;
+  text-align: center;
+}
+
+.home-header-text {
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 4.5rem;
+}
+
+.error-icon {
+  padding: 1rem;
+  width: 200px;
+}
+
+.exp-logo {
+  height: 200px;
+  width: auto;
+}
+
+.footer-section {
+  padding: 0.74rem 1.25rem;
+  margin-bottom: 0;
+  background-color: transparent;
+  border-bottom: 1px solid white;
+  text-align: left;
+}
+
+.img-team {
+  width: 60%;
+  border-radius: 100%;
+}
