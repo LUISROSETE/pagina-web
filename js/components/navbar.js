@@ -1,4 +1,5 @@
 const navContainer = document.getElementById("nav-container");
+const footer = document.querySelector("footer")
 if(navContainer){
   navContainer.innerHTML = `
   <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top"
@@ -101,4 +102,10 @@ if(navContainer){
   </div>
 </nav>
   `
+}
+if(footer){
+  if(footer.classList.contains("bg-dark")){
+    footer.classList.toggle("bg-dark")
+    footer.classList.add("bg-secondary")
+  }
 }

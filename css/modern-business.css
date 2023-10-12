@@ -210,3 +210,8 @@ body {
     display: block;
   }
 }
+
+.center-clients-images{
+  display: grid;
+  place-items: center;
+}
