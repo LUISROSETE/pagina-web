@@ -56,6 +56,12 @@ if(navContainer){
               <a class="dropdown-item" href="#courses-menu">Cursos</a>
               <ul class="dropdown-menu dropdown-submenu" id="courses-menu">
                 <li>
+                  <a target="_blank" class="dropdown-item" href="https://mbconsulting.lemonsqueezy.com">Production Planning, Programming and Control </a>
+                </li>
+                <li>
+                  <a target="_blank" class="dropdown-item" href="https://mbconsultoria.lemonsqueezy.com">Planeación, Programación y Control de la Producción</a>
+                </li>
+                <li>
                   <a class="dropdown-item" href="#">Proximamente Curso 1</a>
                 </li>
                 <li>
@@ -64,15 +70,15 @@ if(navContainer){
                 <li>
                   <a class="dropdown-item" href="#">Proximamente Curso 3 </a>
                 </li>
-                <li>
-                  <a class="dropdown-item" href="#">Proximamente Curso 4</a>
-                </li>
-                <li>
-                  <a class="dropdown-item" href="#">Proximamente Curso 5</a>
-                </li>
               </ul>
             </span>
             <ul class="courses-mobile" id="courses-menum">
+              <li>
+                <a target="_blank" class="dropdown-item" href="https://mbconsulting.lemonsqueezy.com">Production Planning, Programming and Control </a>
+              </li>
+              <li>
+                <a target="_blank" class="dropdown-item" href="https://mbconsultoria.lemonsqueezy.com">Planeación, Programación y Control de la Producción</a>
+              </li>
               <li>
                 <a class="dropdown-item" href="#">Proximamente Curso 1</a>
               </li>
@@ -82,12 +88,7 @@ if(navContainer){
               <li>
                 <a class="dropdown-item" href="#">Proximamente Curso 3 </a>
               </li>
-              <li>
-                <a class="dropdown-item" href="#">Proximamente Curso 4</a>
-              </li>
-              <li>
-                <a class="dropdown-item" href="#">Proximamente Curso 5</a>
-              </li>
+              
             </ul>
           </div>
         </li>
