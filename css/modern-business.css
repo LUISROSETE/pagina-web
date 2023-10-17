@@ -209,9 +209,19 @@ body {
   .courses-mobile{
     display: block;
   }
+  .dropdown-menu span:hover>.dropdown-submenu {
+    display: none;
+  }
 }
 
 .center-clients-images{
   display: grid;
   place-items: center;
+}
+.arrow{
+  background-color: #96bae97f;
+  transition: all 0.2s ease-in;
+}
+.arrow:hover{
+  background-color: #96bae9;
 }

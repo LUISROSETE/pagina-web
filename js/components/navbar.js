@@ -56,37 +56,37 @@ if(navContainer){
               <a class="dropdown-item" href="#courses-menu">Cursos</a>
               <ul class="dropdown-menu dropdown-submenu" id="courses-menu">
                 <li>
-                  <a class="dropdown-item" href="#">Curso 1</a>
+                  <a class="dropdown-item" href="#">Proximamente Curso 1</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">Curso 2</a>
+                  <a class="dropdown-item" href="#">Proximamente Curso 2</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">Curso 3 </a>
+                  <a class="dropdown-item" href="#">Proximamente Curso 3 </a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">Curso 4</a>
+                  <a class="dropdown-item" href="#">Proximamente Curso 4</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">Curso 5</a>
+                  <a class="dropdown-item" href="#">Proximamente Curso 5</a>
                 </li>
               </ul>
             </span>
             <ul class="courses-mobile" id="courses-menum">
               <li>
-                <a class="dropdown-item" href="#">Curso 1</a>
+                <a class="dropdown-item" href="#">Proximamente Curso 1</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Curso 2</a>
+                <a class="dropdown-item" href="#">Proximamente Curso 2</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Curso 3 </a>
+                <a class="dropdown-item" href="#">Proximamente Curso 3 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Curso 4</a>
+                <a class="dropdown-item" href="#">Proximamente Curso 4</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Curso 5</a>
+                <a class="dropdown-item" href="#">Proximamente Curso 5</a>
               </li>
             </ul>
           </div>
